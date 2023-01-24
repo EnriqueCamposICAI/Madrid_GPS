@@ -15,6 +15,7 @@ Para buscar direcciones hay que seguir estos pasos. Más o menos están explicad
   2. Insertar el nombre completo de la calle de origen (Calle de ... , Carretera de ...)
   3. Seleccionar si el numeral de la calle es de tipo NUM (número) o KM (kilómetro). Esto generalemente será NUM para las calles, avenidas, caminos... y KM para              autovías, autopistas y algunas carreteras
   4. Insertar el número
-  5. Repetir los pasos para la dirección de destino. 
+  5. Si tiene algo extra que ingresar, metalo en extra (como portal B o EXT o INT en caso de autopistas)
+  6. Repetir los pasos para la dirección de destino. 
   
 Después de realizar esto, el programa mostrará los pasos a seguir en el terminal y mediante un mapa, las direcciones a seguir. 
